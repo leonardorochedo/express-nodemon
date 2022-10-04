@@ -1,0 +1,16 @@
+body {
+    background-color: blue;
+    text-align: center;
+    padding: 2em;
+
+    color: white;
+}
+
+input {
+    border-radius: 10px;
+    margin-bottom: .5rem;
+}
+
+input:hover {
+    cursor: pointer;
+}
